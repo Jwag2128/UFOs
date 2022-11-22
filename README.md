@@ -1,7 +1,9 @@
 # UFO Sightings
 
 ## Overview of Project
-### The purpose of this challenge was to create a web application [View Here](https://jwag2128.github.io/UFOs/) to house data on UFO sightings.  I used an HTML script to set up the webpage design.  This included inserting images, filters with input box, and a table to display the data.  I also utilized a Javascript file to import the data and place it into a table.  This file would also set up how the filters would function when idle and when the user would select the criteria to view.
+### The purpose of this challenge was to create a web application to house data on UFO sightings.  I used an HTML script to set up the webpage design.  This included inserting images, filters with input box, and a table to display the data.  I also utilized a Javascript file to import the data and place it into a table.  This file would also set up how the filters would function when idle and when the user would select the criteria to view.
+
+To view the live web application [Click Here](https://jwag2128.github.io/UFOs/)
 
 ![UFO_Home](https://user-images.githubusercontent.com/106286533/184932671-55035010-a8d1-4169-b0ee-4345042b0ace.png)
 
